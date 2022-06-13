@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mamun361054
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mamun Hossain
+- 👀 I’m interested in playing cricket
+- 🌱 I’m currently learning flutter and dart
+- 💞️ I’m looking to collaborate on flutter framework
+- 📫 How to reach me mh72156@gmail.com
 
 <!---
 Mamun361054/Mamun361054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
