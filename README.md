@@ -14,7 +14,7 @@
     <img src="https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg"
       alt="dart" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer">
-    <img src="https://www.woolha.com/media/2020/05/flutter-using-colorfiltered-examples-1200x627.jpg"
+    <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"
       alt="Flutter" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
