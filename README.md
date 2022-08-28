@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamun Hossain</h1>
-<h3 align="center">Student at North SOunth University, Bangladesh🌟.</h3>
+<h3 align="center">Student at North Sounth University, Bangladesh🌟.</h3>
 
 <br>
 
