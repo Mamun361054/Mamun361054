@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.logo.wine/a/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.svg"
+    <img src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png"
       alt="dart" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer">
     <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"
