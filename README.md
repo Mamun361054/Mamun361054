@@ -2,7 +2,7 @@
 <h3 align="center">Student at North Sounth University, Bangladesh🌟.</h3>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
+Cancel changes
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,7 +11,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an mobile application developer at sookh.com. Dart, Flutter, Kotlin, C, C++, Python, HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am mobile application developer at sookh.com. Dart, Flutter, Kotlin, C, C++, Python, HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web development, Mobile application development **
 - 🌱 I’m currently learning django
   - Java
